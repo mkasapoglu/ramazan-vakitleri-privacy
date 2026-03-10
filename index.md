@@ -2,7 +2,7 @@
 
 ## T&#252;rk&#231;e
 
-Bu gizlilik politikas&#305;, Ramazan Vakitleri uygulamas&#305;n&#305;n kullan&#305;c&#305; verilerini nas&#305;l toplad&#305;&#287;&#305;, kulland&#305;&#287;&#305;, saklad&#305;&#287;&#305; ve korudu&#287;u hakk&#305;nda bilgi verir. Uygulaman&#305;n temel amac&#305;, se&#231;ti&#287;iniz &#351;ehir i&#231;in namaz vakitleri ve iftar/sahur saatleri sunmakt&#305;r.
+Bu gizlilik politikas&#305;, 2026 Ramazan uygulamas&#305;n&#305;n kullan&#305;c&#305; verilerini nas&#305;l toplad&#305;&#287;&#305;, kulland&#305;&#287;&#305;, saklad&#305;&#287;&#305; ve korudu&#287;u hakk&#305;nda bilgi verir. Uygulaman&#305;n temel amac&#305;, se&#231;ti&#287;iniz &#351;ehir i&#231;in namaz vakitleri ve iftar/sahur saatleri sunmakt&#305;r.
 
 ### 1. Toplanan Veriler
 Uygulama, yaln&#305;zca se&#231;ti&#287;iniz &#351;ehri ve tercihinizi yerel bellekte saklar; isim, e-posta, konum veya di&#287;er ki&#351;isel veriler toplanmaz. Uygulama internet ba&#287;lant&#305;s&#305; ile namaz vakitlerini indirirken cihaz veya kullan&#305;c&#305;ya ait veri iletmez.
@@ -27,7 +27,7 @@ Gizlilik uygulamalar&#305;m&#305;z hakk&#305;nda sorular&#305;n&#305;z varsa l&#
 
 ## English
 
-This privacy policy describes how the Ramazan Vakitleri app collects, uses, stores and protects user data. The app's primary purpose is to provide prayer times and iftar/suhoor times for the selected city.
+This privacy policy describes how the 2026 Ramazan app collects, uses, stores and protects user data. The app's primary purpose is to provide prayer times and iftar/suhoor times for the selected city.
 
 ### 1. Collected Data
 The app only stores the city you select and your preference in local storage; it does not collect your name, email, location or other personal data. When downloading prayer times via the internet connection, the app does not transmit device or user data.
