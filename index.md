@@ -23,7 +23,7 @@ Uygulama ki&#351;isel veri tutmad&#305;&#287;&#305;ndan, silme veya d&#252;zeltm
 Gizlilik politikas&#305; ileride yasal gereksinimler veya uygulama fonksiyonlar&#305;n&#305;n de&#287;i&#351;mesi nedeniyle g&#252;ncellenebilir. Politika de&#287;i&#351;ti&#287;inde g&#252;ncel metin uygulama i&#231;inden ve web sayfas&#305;ndan payla&#351;&#305;l&#305;r.
 
 ### 7. &#304;leti&#351;im
-Gizlilik uygulamalar&#305;m&#305;z hakk&#305;nda sorular&#305;n&#305;z varsa l&#252;tfen mk@mkasapogl.com &#252;zerinden bizimle ileti&#351;ime geçin.
+Gizlilik uygulamalar&#305;m&#305;z hakk&#305;nda sorular&#305;n&#305;z varsa l&#252;tfen mk@mkasapoglu.com &#252;zerinden bizimle ileti&#351;ime geçin.
 
 ## English
 
@@ -48,4 +48,4 @@ As the app does not hold personal data, there are no deletion or correction requ
 This privacy policy may be updated due to legal requirements or changes in the app's functionality. When the policy is updated, the current text will be shared within the app and on the web page.
 
 ### 7. Contact
-If you have any questions about our privacy practices, please contact us at mk@mkasapogl.com.
+If you have any questions about our privacy practices, please contact us at mk@mkasapoglu.com.
